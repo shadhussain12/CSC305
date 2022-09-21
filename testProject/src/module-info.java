@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Shad
+ *
+ */
+module testProject {
+}
